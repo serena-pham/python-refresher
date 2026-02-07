@@ -3,6 +3,7 @@
 The ```echo.py``` file aims to mimic a real-world echo. Given inputs ```text``` (a string) and ```repetitions``` (an int), the mountain will echo ```text``` a ```repetitions``` number of times.
 
 The screenshot below shows the code in the ```echo.py``` file.
+
 ![](echo_code.png)
 
 For example, if ```text = I'm on top of the world```, and ```repetition = 3```, the following is the result:
