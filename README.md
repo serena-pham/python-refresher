@@ -5,8 +5,9 @@ The ```echo.py``` file aims to mimic a real-world echo. Given inputs ```text``` 
 The screenshot below shows the code in the ```echo.py``` file.
 ![](echo_code.png)
 
-For example, when prompted to provide a text, if "I'm on top of the world" is given, and repetition = 3, the following is the result:
+For example, if ```text = I'm on top of the world```, and ```repetition = 3```, the following is the result:
 ![](echo_output.png)
+
 
 The trailing letters represent the fading of an echoed sound effect.
 
@@ -15,7 +16,7 @@ The trailing letters represent the fading of an echoed sound effect.
 The ```fib.py``` file computes the nth Fibonacci sequence number, while also calculating how much time it takes to compute each one, using a ```timer``` decorator. 
 
 The screenshot below shoes the code in the ```fib.py``` file.
-![](fib.py.png)
+![](fib_code.png)
 
 Once run, the output should look something like what is shown below, with the time it took to run on the left hand side, and the fibonacci sequence number on the right
 ```
